@@ -1,0 +1,16 @@
+dist
+testdb.json
+*lock.json
+yarn.lock
+node_modules
+/target
+testdb.json
+.vs*
+.DS_Store
+extractTools/.assets-local.txt
+extractTools/n64graphics
+extractTools/mio0
+extractTools/skyconv
+extractTools/n64graphics.exe
+extractTools/mio0.exe
+extractTools/skyconv.exe

@@ -1,0 +1,1 @@
+export const BOUNDS_EXTENSION = 2.0
